@@ -18,7 +18,7 @@ const ankit = {
     education      : "B.Tech CSE @ SRM Institute of Science & Technology 🎓",
     cgpa           : "8.06 / 10",
     graduationYear : 2026,
-    previousRole   : "Backend Developer Intern @ Go Life 🏢",
+    previousRole   : "Backend Developer Intern @ Go Bandhu 🏢",
 
     expertise: {
         backend   : ["Microservices", "REST APIs", "Event-Driven Architecture", "Message Queues"],
@@ -135,18 +135,18 @@ const ankit = {
 
 </td> <td width="50%">
 
-### 🤖 Telegram Bot
+### 📄 Sommaire — AI PDF Summarizer
 
-**Automation & Messaging Bot**
+**Transform PDFs into Concise Summaries**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
--   🤖 Built with Node.js Telegram Bot API
--   💬 Automated message handling & command responses
--   ⚡ Lightweight, event-driven architecture
--   🚀 Deployed and publicly available
+-   🧠 AI-powered PDF summarization using Gemini 2.5 Pro
+-   📊 Dashboard to manage & download all summaries as PDF
+-   🔐 Auth via Clerk with Pro/Basic subscription tiers
+-   ⚡ Built with Next.js 15, NeonDB & UploadThing
 
-[View Repository →](https://github.com/Ankiitsingh21/Telegram_Bot)
+[View Live →](https://sommaire-eight.vercel.app/) | [Repository →](https://github.com/Ankiitsingh21/Sommaire)
 
 </td> </tr> </table> </div>
 
@@ -203,7 +203,8 @@ const achievements = {
 
 **Always up to discuss tech, collaborate on projects, or explore opportunities!**
 
-<table> <tr> <td align="center" width="33%"> <h2>📧</h2> <br> <a href="mailto:ankiitsingh21@gmail.com"> <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </td> <td align="center" width="33%"> <h2>💼</h2> <br> <a href="https://linkedin.com/in/ankit-singh-a45392267"> <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </td> <td align="center" width="33%"> <h2>🌐</h2> <br> <a href="https://portfolio-seven-gray-l6gk9z1m1w.vercel.app/"> <img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> </td> </tr> </table> </div>
+<table> <tr> <td align="center" width="33%"> <h2>📧</h2> <br> <a href="mailto:ankiitsingh21@gmail.com"> <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </td> <td align="center" width="33%"> <h2>💼</h2> <br> <a href="https://linkedin.com/in/ankit-singh-a45392267"> <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </td> <td align="center" width="33%"> <h2>🌐</h2> <br> <a href="https://portfolio-seven-gray-l6gk9z1m1w.vercel.app/"> <img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </td> </tr> </table> </div>
+
 ----------
 
 <div align="center">
@@ -214,7 +215,7 @@ _Backend • Full-Stack • Distributed Systems • Microservices_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" />
 
-_"First, solve the problem. Then, write the code." 
+_"First, solve the problem. Then, write the code." — John Johnson_
 
 **⭐ If you find my work interesting, drop a star!**
 
