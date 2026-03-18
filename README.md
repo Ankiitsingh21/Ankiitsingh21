@@ -18,7 +18,7 @@ const ankit = {
     education      : "B.Tech CSE @ SRM Institute of Science & Technology 🎓",
     cgpa           : "8.06 / 10",
     graduationYear : 2026,
-    previousRole   : "Backend Developer Intern @ Go Bandhu 🏢",
+    previousRole   : "Backend Developer Intern @ Go Life 🏢",
 
     expertise: {
         backend   : ["Microservices", "REST APIs", "Event-Driven Architecture", "Message Queues"],
